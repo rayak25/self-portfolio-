@@ -37,17 +37,3 @@ This is the interactive personal portfolio of **Ramya Pathak**, a passionate Com
 * **Font Awesome for icons**
 * **Custom animations for skill bars and project fade-ins**
 
-## How to Use
-
-1. Clone the repository:
-
-```bash
-git clone https://github.com/rayak25/portfolio.git
-```
-
-2. Open `index.html` in your browser to view the portfolio.
-3. Add your own images in the `src/images/` folder and update the paths in HTML if needed.
-
-
-
-Do you want me to do that too?
